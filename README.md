@@ -39,3 +39,4 @@ A menu is displayed:
   If an invalid option is selected, the program prints an error message.
 
 ***output****
+![Image](https://github.com/user-attachments/assets/9d31feee-6267-4bd0-a8d5-bc2b3a2d80e5)
